@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir '/action'> PATH. /action
+find PATH. /action | mkdir /action
